@@ -60,7 +60,10 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 * 3.1 MATERIALES DE LA PRACTICA
 
-![image](https://user-images.githubusercontent.com/116772918/203876212-03dfefaa-73b5-45dd-a6b6-357162651c8d.png))
+* 3 transistores 2n3904 
+* 3 resistencias 510 ohm
+* 3 leds diferentes colores
+* 1 resistencia de 1k 
 
 
 
