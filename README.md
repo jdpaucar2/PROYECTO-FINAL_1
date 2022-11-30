@@ -1,7 +1,7 @@
 # PROYECTO-FINAL_1
 # "UNIVERSIDAD DE LAS FUERZAS ARMADAS"
 # ESPE
-# PRÁCTICA No. 2 ANÁLISIS DE MALLAS
+# DECTECTOR DE NIVEL DE AGUA
 
 ![image](https://user-images.githubusercontent.com/116772918/200762591-a164d8db-c02e-4269-8bb4-0bc4c810d79f.png)
 
@@ -12,10 +12,10 @@
 * Juan David Paucar Amagua
 
 
-**PRACTICA DE LABORATORIO Nº3**
+**PROYECTO FINAL**
 
 **FECHA DE ENTREGA**
-* 25/11/2022
+* 31/11/2022
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -36,18 +36,6 @@
 **2. MARCO TEORICO**
 
 
-* 2.1 Ley de corrientes de Kirchhoff
-
-la ley de corriente de Kirchhoff explica que la carga total se conserva, se deduce que la corriente total que entra a la unión de dos o más ramas de un circuito es igual a la corriente que sale de la misma.
-
-![image](https://user-images.githubusercontent.com/116772918/200897862-25d18d7c-8a4c-4fd5-93d9-02a36dd58912.png)
-
-
-En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma delas corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por elnodo es igual a cero
-
-* 2.2 Ley de voltaje de Kirchhoff
-
-La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de conservación de la energía, lo cual implica que La suma algebraica de las caídas de voltaje dentro de una trayectoria cerrada, o dentro de un lazo, es igual a cero.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
