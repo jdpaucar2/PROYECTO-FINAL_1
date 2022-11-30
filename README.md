@@ -64,7 +64,17 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 
 
-* 3.2 DIAGRMA EN TINKERCAD
+* 3.2 DIAGRMA DEL DETECTOR DEL NIVEL DE AGUA
+
+![image](https://user-images.githubusercontent.com/116772918/204889743-65e26b59-d67d-4b8f-9e8a-317611e54566.png)
+
+
+* 3.3 DIAGRMA DEL DETECTOR DEL NIVEL DE AGUA
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/116772918/203894129-510fd39a-4e93-4828-8116-0c06e5964faa.png)
 
