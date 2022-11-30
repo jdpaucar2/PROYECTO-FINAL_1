@@ -46,7 +46,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. EXPLICACIÓN DEL PROCEDIMIENTO**
 
-* 3.1 MATERIALES DE LA PRACTICA
+** 3.1 MATERIALES DE LA PRACTICA
 
 * 3 transistores 2n3904 
 * 3 resistencias 510 ohm
@@ -55,18 +55,18 @@
 
 
 
-* 3.2 DIAGRMA DEL DETECTOR DEL NIVEL DE AGUA
+** 3.2 DIAGRMA DEL DETECTOR DEL NIVEL DE AGUA
 
 ![image](https://user-images.githubusercontent.com/116772918/204889743-65e26b59-d67d-4b8f-9e8a-317611e54566.png)
 
 
-* 3.3 DIAGRMA EN TINKERCAD DEL DETECTOR DEL NIVEL DE AGUA
+** 3.3 DIAGRMA EN TINKERCAD DEL DETECTOR DEL NIVEL DE AGUA
 
 
 ![image](https://user-images.githubusercontent.com/116772918/204893343-15e5fff5-3f79-4cd9-a984-246deede9240.png)
 
 
-* 3.4 PROYECTO REALIZADO DEL DETECTOR DE NIVEL DE AGUA 
+** 3.4 PROYECTO REALIZADO DEL DETECTOR DE NIVEL DE AGUA 
 
 ![image](https://user-images.githubusercontent.com/116772918/204894414-86212f43-eb4d-401d-9818-90f98cdd94ec.png)
 
@@ -76,11 +76,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
-
-
-
-* 4.1 PRIMERA TABLA  
-
 
 
 
