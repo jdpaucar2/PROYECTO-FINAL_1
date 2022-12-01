@@ -24,12 +24,15 @@
 
 **1.1  OBJETIVO GENERAL**
 
-* Reliar un circuito que  detecte los niveles de agua.
+* Armar un circuito que detecte los niveles de agua de un depósito.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
 * Analizar el funcionamineto de cada componentes.
 
+* Aprender el funcionamiento de un circuito indicador de agua.
+
+* Medir el nivel del agua a partir de circuitos electricos.
  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -95,7 +98,7 @@ https://studio.youtube.com/video/BCquvi98vQ0/edit
 
 **5. CONCLUSIONES**
 
-
+En este proyecto lo que podemos apreciar es que el terminal positivo del suministro se puede ver sumergido en el nivel más bajo del tanque, por lo que el agua está en contacto con este positivo incluso en el nivel más bajo. Las bases de los respectivos transistores están dispuestas secuencialmente a lo largo de la profundidad del tanque de agua, de modo que cuando el agua llena el tanque, conecta secuencialmente el suministro positivo con las bases transistore 2n3904 relevantes a través del nivel ascendente del agua. Cuando esto sucede, los transistores comienzan a polarizarse uno por uno, iluminando los LED del colector en la misma secuencia.
 
 
 
