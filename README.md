@@ -28,11 +28,11 @@
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Analizar el funcionamineto de cada componentes.
+* Analizar el funcionamineto de cada componente en nuestro circuito.
 
-* Aprender el funcionamiento de un circuito indicador de agua.
+* Aprender el funcionamiento de un circuito indicador del nivel de agua.
 
-* Medir el nivel del agua a partir de circuitos electricos.
+* Medir el nivel del agua a partir de un circuito electrico.
  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
