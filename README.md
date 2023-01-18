@@ -60,27 +60,26 @@
 
 **3.1 MATERIALES DE LA PRACTICA**
 
-* 3 transistores 2n3904 
-* 3 resistencias 510 ohm
-* 3 leds diferentes colores
-* 1 resistencia de 1k 
+* 1 Foco
+* 2 Conmutadores
+* 1 Boquilla 
+
+
+**3.2 DIAGRMA DEL DETECTOR DEL CIRCUITO ESCALERA*
 
 
 
-**3.2 DIAGRMA DEL DETECTOR DEL NIVEL DE AGUA**
 
-![image](https://user-images.githubusercontent.com/116772918/204889743-65e26b59-d67d-4b8f-9e8a-317611e54566.png)
+**3.3 DIAGRMA EN TINKERCAD DEL CIRCUITO ESCALERA**
 
-
-**3.3 DIAGRMA EN TINKERCAD DEL DETECTOR DEL NIVEL DE AGUA**
+![image](https://user-images.githubusercontent.com/116772918/213184693-19505f6e-e752-48af-9524-7b6bd1a0f271.png)
 
 
-![image](https://user-images.githubusercontent.com/116772918/204893343-15e5fff5-3f79-4cd9-a984-246deede9240.png)
 
 
-**3.4 PROYECTO REALIZADO DEL DETECTOR DE NIVEL DE AGUA** 
+**3.4 PROYECTO REALIZADO DEL CIRCUITO ESCALERA** 
 
-![image](https://user-images.githubusercontent.com/116772918/204894414-86212f43-eb4d-401d-9818-90f98cdd94ec.png)
+
 
 
 
@@ -90,15 +89,12 @@
 
 **4. VIDEO**
 
-https://youtube.com/shorts/bBFzGelCa6E
-
-https://studio.youtube.com/video/BCquvi98vQ0/edit
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **5. CONCLUSIONES**
 
-En este proyecto lo que podemos apreciar es que el terminal positivo del suministro se puede ver sumergido en el nivel más bajo del tanque, por lo que el agua está en contacto con este positivo incluso en el nivel más bajo. Las bases de los respectivos transistores están dispuestas secuencialmente a lo largo de la profundidad del tanque de agua, de modo que cuando el agua llena el tanque, conecta secuencialmente el suministro positivo con las bases transistore 2n3904 relevantes a través del nivel ascendente del agua. Cuando esto sucede, los transistores comienzan a polarizarse uno por uno, iluminando los LED del colector en la misma secuencia.
+
 
 
 
